@@ -17,6 +17,7 @@
 
 	<build>
 		<defaultGoal>install</defaultGoal>
+		<finalName>hello-world</finalName>
 	</build>
 
 	<dependencies>
